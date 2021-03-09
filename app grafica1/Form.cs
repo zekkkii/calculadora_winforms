@@ -136,6 +136,7 @@ namespace app_grafica1
             { 
             digito1 = double.Parse(split[0]);
             digito2 = double.Parse(split[1]);
+
             }
 
             Calcular iniciarCalcular = new Calcular();
