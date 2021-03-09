@@ -1,0 +1,36 @@
+C:\Users\Ezequiel Vasquez\source\repos\app grafica1\bin\Debug\netcoreapp3.1\app grafica1.exe
+C:\Users\Ezequiel Vasquez\source\repos\app grafica1\bin\Debug\netcoreapp3.1\app grafica1.deps.json
+C:\Users\Ezequiel Vasquez\source\repos\app grafica1\bin\Debug\netcoreapp3.1\app grafica1.runtimeconfig.json
+C:\Users\Ezequiel Vasquez\source\repos\app grafica1\bin\Debug\netcoreapp3.1\app grafica1.runtimeconfig.dev.json
+C:\Users\Ezequiel Vasquez\source\repos\app grafica1\bin\Debug\netcoreapp3.1\app grafica1.dll
+C:\Users\Ezequiel Vasquez\source\repos\app grafica1\bin\Debug\netcoreapp3.1\app grafica1.pdb
+C:\Users\Ezequiel Vasquez\source\repos\app grafica1\obj\Debug\netcoreapp3.1\app grafica1.csprojAssemblyReference.cache
+C:\Users\Ezequiel Vasquez\source\repos\app grafica1\obj\Debug\netcoreapp3.1\app_grafica1.Form.resources
+C:\Users\Ezequiel Vasquez\source\repos\app grafica1\obj\Debug\netcoreapp3.1\app grafica1.csproj.GenerateResource.cache
+C:\Users\Ezequiel Vasquez\source\repos\app grafica1\obj\Debug\netcoreapp3.1\app grafica1.AssemblyInfoInputs.cache
+C:\Users\Ezequiel Vasquez\source\repos\app grafica1\obj\Debug\netcoreapp3.1\app grafica1.AssemblyInfo.cs
+C:\Users\Ezequiel Vasquez\source\repos\app grafica1\obj\Debug\netcoreapp3.1\app grafica1.csproj.CoreCompileInputs.cache
+C:\Users\Ezequiel Vasquez\source\repos\app grafica1\obj\Debug\netcoreapp3.1\app grafica1.dll
+C:\Users\Ezequiel Vasquez\source\repos\app grafica1\obj\Debug\netcoreapp3.1\app grafica1.pdb
+C:\Users\Ezequiel Vasquez\source\repos\app grafica1\obj\Debug\netcoreapp3.1\app grafica1.genruntimeconfig.cache
+C:\Users\Ezequiel Vasquez\source\repos\app grafica1\bin\Debug\netcoreapp3.1\CalculadoraLogicLayer.dll
+C:\Users\Ezequiel Vasquez\source\repos\app grafica1\bin\Debug\netcoreapp3.1\CalculadoraLogicLayer.pdb
+C:\Users\Ezequiel Vasquez\source\repos\app grafica1\obj\Debug\netcoreapp3.1\app grafica1.csproj.CopyComplete
+C:\Users\Ezequiel Vasquez\source\repos\calculadora winfroms\app grafica1\obj\Debug\netcoreapp3.1\app grafica1.dll
+C:\Users\Ezequiel Vasquez\source\repos\calculadora winfroms\app grafica1\obj\Debug\netcoreapp3.1\app grafica1.pdb
+C:\Users\Ezequiel Vasquez\source\repos\calculadora winfroms\app grafica1\bin\Debug\netcoreapp3.1\app grafica1.exe
+C:\Users\Ezequiel Vasquez\source\repos\calculadora winfroms\app grafica1\bin\Debug\netcoreapp3.1\app grafica1.deps.json
+C:\Users\Ezequiel Vasquez\source\repos\calculadora winfroms\app grafica1\bin\Debug\netcoreapp3.1\app grafica1.runtimeconfig.json
+C:\Users\Ezequiel Vasquez\source\repos\calculadora winfroms\app grafica1\bin\Debug\netcoreapp3.1\app grafica1.runtimeconfig.dev.json
+C:\Users\Ezequiel Vasquez\source\repos\calculadora winfroms\app grafica1\bin\Debug\netcoreapp3.1\app grafica1.dll
+C:\Users\Ezequiel Vasquez\source\repos\calculadora winfroms\app grafica1\bin\Debug\netcoreapp3.1\app grafica1.pdb
+C:\Users\Ezequiel Vasquez\source\repos\calculadora winfroms\app grafica1\bin\Debug\netcoreapp3.1\LogicLayer.dll
+C:\Users\Ezequiel Vasquez\source\repos\calculadora winfroms\app grafica1\bin\Debug\netcoreapp3.1\LogicLayer.pdb
+C:\Users\Ezequiel Vasquez\source\repos\calculadora winfroms\app grafica1\obj\Debug\netcoreapp3.1\app grafica1.csprojAssemblyReference.cache
+C:\Users\Ezequiel Vasquez\source\repos\calculadora winfroms\app grafica1\obj\Debug\netcoreapp3.1\app_grafica1.Form.resources
+C:\Users\Ezequiel Vasquez\source\repos\calculadora winfroms\app grafica1\obj\Debug\netcoreapp3.1\app grafica1.csproj.GenerateResource.cache
+C:\Users\Ezequiel Vasquez\source\repos\calculadora winfroms\app grafica1\obj\Debug\netcoreapp3.1\app grafica1.AssemblyInfoInputs.cache
+C:\Users\Ezequiel Vasquez\source\repos\calculadora winfroms\app grafica1\obj\Debug\netcoreapp3.1\app grafica1.AssemblyInfo.cs
+C:\Users\Ezequiel Vasquez\source\repos\calculadora winfroms\app grafica1\obj\Debug\netcoreapp3.1\app grafica1.csproj.CoreCompileInputs.cache
+C:\Users\Ezequiel Vasquez\source\repos\calculadora winfroms\app grafica1\obj\Debug\netcoreapp3.1\app grafica1.csproj.CopyComplete
+C:\Users\Ezequiel Vasquez\source\repos\calculadora winfroms\app grafica1\obj\Debug\netcoreapp3.1\app grafica1.genruntimeconfig.cache
